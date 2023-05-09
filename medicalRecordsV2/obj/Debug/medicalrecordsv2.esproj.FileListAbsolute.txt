@@ -1,0 +1,4 @@
+C:\Users\thami\Documents\21W- Local Software Dev Group Project\medicalRecordsV2\obj\Debug\medicalrecordsv2.esproj.SuggestedBindingRedirects.cache
+C:\Users\thami\Documents\21W- Local Software Dev Group Project\medicalRecordsV2\obj\Debug\medicalrecordsv2.esproj.CoreCompileInputs.cache
+C:\Users\thami\Documents\Github\GPSurgery\medicalRecordsV2\obj\Debug\medicalrecordsv2.esproj.SuggestedBindingRedirects.cache
+C:\Users\thami\Documents\Github\GPSurgery\medicalRecordsV2\obj\Debug\medicalrecordsv2.esproj.CoreCompileInputs.cache
